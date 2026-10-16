@@ -1,0 +1,14 @@
+# Ignore Vivado log, journal, and runtime environment files
+vivado*.log
+vivado*.jou
+vivado*.str
+.Xil/
+
+# Ignore compiler and synthesis binary files 
+*.dirent
+*.bxml
+*.bit
+*.hw/
+*.cache/
+*.runs/
+*.ip_user_files/
