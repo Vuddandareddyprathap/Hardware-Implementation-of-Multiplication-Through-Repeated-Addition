@@ -1,0 +1,20 @@
+# Vivado build output directories
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Vivado logs, journals, and temporary files
+*.log
+*.jou
+*.str
+*.wdb
+*.dcp
+*.bit
+*.bin
+*.vcd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
